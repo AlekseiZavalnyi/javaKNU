@@ -1,0 +1,4 @@
+-45.54
+56.1
+5.2
+Product of non zero even elements: 13284.9288
