@@ -238,7 +238,7 @@ public class Test_tensor {
     
     public static void case2(){
         try {
-            String path = "C:\\Users\\Админ\\Documents\\NetBeansProjects\\KR2\\src\\main\\java\\org\\javapractices\\project\\for_test.txt";
+            String path = "for_test.txt";
             File myObj = new File(path);
             Scanner myReader = new Scanner(myObj);
             boolean first = true;
